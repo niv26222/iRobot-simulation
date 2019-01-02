@@ -1,0 +1,19 @@
+C:\Users\adirz\Source\Repos\IROBOT-simulation\irobot simulation\irobot simulation\bin\Debug\irobot simulation.exe.config
+C:\Users\adirz\Source\Repos\IROBOT-simulation\irobot simulation\irobot simulation\bin\Debug\irobot simulation.exe
+C:\Users\adirz\Source\Repos\IROBOT-simulation\irobot simulation\irobot simulation\bin\Debug\irobot simulation.pdb
+C:\Users\adirz\Source\Repos\IROBOT-simulation\irobot simulation\irobot simulation\obj\Debug\irobot simulation.csprojResolveAssemblyReference.cache
+C:\Users\adirz\Source\Repos\IROBOT-simulation\irobot simulation\irobot simulation\obj\Debug\irobot_simulation.simulation.resources
+C:\Users\adirz\Source\Repos\IROBOT-simulation\irobot simulation\irobot simulation\obj\Debug\irobot_simulation.Properties.Resources.resources
+C:\Users\adirz\Source\Repos\IROBOT-simulation\irobot simulation\irobot simulation\obj\Debug\irobot simulation.csproj.GenerateResource.Cache
+C:\Users\adirz\Source\Repos\IROBOT-simulation\irobot simulation\irobot simulation\obj\Debug\irobot simulation.exe
+C:\Users\adirz\Source\Repos\IROBOT-simulation\irobot simulation\irobot simulation\obj\Debug\irobot simulation.pdb
+C:\Users\NivbePulse\Desktop\irobot simulation\irobot simulation\bin\Debug\irobot simulation.exe.config
+C:\Users\NivbePulse\Desktop\irobot simulation\irobot simulation\bin\Debug\irobot simulation.exe
+C:\Users\NivbePulse\Desktop\irobot simulation\irobot simulation\bin\Debug\irobot simulation.pdb
+C:\Users\NivbePulse\Desktop\irobot simulation\irobot simulation\obj\Debug\irobot simulation.csprojAssemblyReference.cache
+C:\Users\NivbePulse\Desktop\irobot simulation\irobot simulation\obj\Debug\irobot_simulation.simulation.resources
+C:\Users\NivbePulse\Desktop\irobot simulation\irobot simulation\obj\Debug\irobot_simulation.Properties.Resources.resources
+C:\Users\NivbePulse\Desktop\irobot simulation\irobot simulation\obj\Debug\irobot simulation.csproj.GenerateResource.cache
+C:\Users\NivbePulse\Desktop\irobot simulation\irobot simulation\obj\Debug\irobot simulation.csproj.CoreCompileInputs.cache
+C:\Users\NivbePulse\Desktop\irobot simulation\irobot simulation\obj\Debug\irobot simulation.exe
+C:\Users\NivbePulse\Desktop\irobot simulation\irobot simulation\obj\Debug\irobot simulation.pdb
